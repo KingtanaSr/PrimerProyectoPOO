@@ -1,0 +1,60 @@
+Canada - Otawwa
+Estados Unidos - Washington DC
+México - México DF
+Belice - Belmopán
+Costa rica - San José
+El Salvador - San Salvador
+Guatemala - Ciudad de Guatemala
+Honduras - Tegucigalpa
+Nicaragua - Managua
+Panamá - Panamá
+Argentina - Buenos Aires
+Bolivia - Sucre
+Brasil - Brasilia
+Chile - Santiago de Chile
+Colombia - Bogotá
+Ecuador - Quito
+Paraguay - Asunción
+Perú - Lima
+Surinam - Parabarimo
+Trinidad y Tobago - Puerto España
+Uruguay - Montevideo
+Venezuela - Caracas
+Bahamas - Nasáu
+Barbados - Bridgetown
+Cuba - La Habana
+Dominica - Roseau
+Guyana - Georgetown
+Jamaica - Kingston
+Egipto - El Cairo
+Alemania - Berlin
+Francia - Paris
+España - Madrid
+Austria - Viena
+Belgica - Bruselas
+Bulgaria - Sofia
+Croacia - Zagreb
+Finlandia - Helsinki
+Grecia - Atenas
+Italia - Roma
+Monaco - Monaco
+Noruega - Oslo
+Portugal - Lisboa
+UK - London
+Suecia - Estocolmo
+Suiza - Zurich
+Rusia - Moscu
+China - Pekin
+Japon - Tokia
+Libano - Beirut
+Nepal - Katmandu
+Pakistan - Islamabad
+Filipinas - Manila
+Catar - Doha
+Singapur - Singapur
+Siria - Damasco
+Taiwan - Taipei
+Tailandia - Bangkok
+Vietnam - Hanoi
+Yemen - Sana
+Corea del Sur - Seul
