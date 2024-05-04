@@ -6,8 +6,7 @@ de las mismas por medio del Sistema Leitner.
 ## Output 
 Una idea de como luce el output del proyecto, acá se puede visualizar el estado de las listas g1,g2,g3 y g4, así como la parte frontal de la ficha que se está estudiando y también se le informa al usuario el número de la sesión actual de estudio, cuántas ha estudiado y cuántas le falta para finalizar de estudiar con totalidad.
 
-<img width="500" alt="image" src="https://github.com/KingtanaSr/ProyectoPOO/assets/150113496/e0485554-4ea8-4895-b5dc-ee8d630c33b1">
-
+<img width="878" alt="Captura de pantalla 2024-05-03 a la(s) 8 16 55 p  m" src="https://github.com/KingtanaSr/PrimerProyectoPOO/assets/150113496/ba9d0ea1-acf6-44b5-a6a4-850ec5b5d628">
 
 ## Autores
 * **Angie Esquivel** - [An-Gi] (https://github.com/An-Gi)
